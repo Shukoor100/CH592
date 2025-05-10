@@ -1,5 +1,6 @@
 # CH592
-CH592 Library by Abdul Shukoor
+CH592 Library by Abdul Shukoor. 
+This is a basic Getting Started with CH592 Library
 
 # How to use:
 This Library is based on Linux OS. First you have to download MounRiver Studio Toolchain.
